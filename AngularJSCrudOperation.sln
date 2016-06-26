@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularJSCrudOperation", "AngularJSCrudOperation\AngularJSCrudOperation.csproj", "{69A621A8-C7EA-41AA-87FD-997CA197F3E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularJSCrudOperation.Tests", "AngularJSCrudOperation.Tests\AngularJSCrudOperation.Tests.csproj", "{44FC01FB-A697-4E62-A663-0895E1686548}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69A621A8-C7EA-41AA-87FD-997CA197F3E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69A621A8-C7EA-41AA-87FD-997CA197F3E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69A621A8-C7EA-41AA-87FD-997CA197F3E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69A621A8-C7EA-41AA-87FD-997CA197F3E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44FC01FB-A697-4E62-A663-0895E1686548}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44FC01FB-A697-4E62-A663-0895E1686548}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44FC01FB-A697-4E62-A663-0895E1686548}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44FC01FB-A697-4E62-A663-0895E1686548}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
